@@ -1,7 +1,7 @@
 # SkillSync
 
 <p align="center">
-  <img src="assets/logo.png" alt="SkillSync Logo" width="200"/>
+  <img src="skillsync-frontend/assets/logo.png" alt="SkillSync Logo" width="200"/>
 </p>
 
 <h1 align="center">SkillSync</h1>
@@ -61,13 +61,13 @@ SkillSync leverages Natural Language Processing (NLP) and machine learning model
 Here’s what SkillSync looks like in action:
 
 <p align="center">
-  <img src="assets/UI1.png" alt="Dashboard UI" width="700"/>
+  <img src="skillsync-frontend/assets/UI1.png" alt="Dashboard UI" width="700"/>
   <br/>
   <em>Dashboard: Visualizing resume-job match, skills gaps, and learning recommendations</em>
 </p>
 
 <p align="center">
-  <img src="assets/UI2.png" alt="Course Recommendations UI" width="700"/>
+  <img src="skillsync-frontend/assets/UI2.png" alt="Course Recommendations UI" width="700"/>
   <br/>
   <em>Smart learning suggestions based on missing skills</em>
 </p>
