@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package match;
+
+service Match {
+  rpc Match (MatchRequest) returns (MatchResponse);
+}
+
+message MatchRequest {
+  string resume = 1;
+  string job = 2;
+}
+
+message MatchResponse {
+  float similarity = 1;
+  string missing_skills = 2;
+  string course_recommendations = 3;
+}

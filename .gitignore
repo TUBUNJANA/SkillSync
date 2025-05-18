@@ -1,0 +1,12 @@
+# Node.js
+SkillSync-backend/node_modules
+SkillSync-backend/.env
+
+
+# Ract
+skillsync-frontend/node_modules
+
+
+# ML-Backend
+skillsync-ml/venv
+skillsync-ml/__pycache__
